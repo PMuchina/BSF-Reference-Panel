@@ -5,6 +5,9 @@ Establishing a Reference Genome Panel and Evaluating Imputation Strategies for L
 ## Low-coverage WGS (lcWGS) imputation pipeline
 <img src="Images/genomic_imputation_workflow.png" alt="Graph" width="400"/>
 
+## Study design
+<img src="Images/Study_design.png" alt="Graph" width="400"/>
+
 ## Imputation tools
 1. [GLIMPSE2](https://odelaneau.github.io/GLIMPSE/) - [Read more](https://www.nature.com/articles/s41588-023-01438-3)
 2. [QUILT](https://github.com/rwdavies/QUILT) - [Read more](https://www.nature.com/articles/s41588-021-00877-0)
