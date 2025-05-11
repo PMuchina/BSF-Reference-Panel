@@ -6,7 +6,7 @@ Establishing a Reference Genome Panel and Evaluating Imputation Strategies for L
 <img src="Images/genomic_imputation_workflow.png" alt="Graph" width="400"/>
 
 ## Study design
-<img src="Images/Study_design.png" alt="Graph" width="400"/>
+<img src="Images/Study_design.png" alt="Graph"/>
 
 ## Imputation tools
 1. [GLIMPSE2](https://odelaneau.github.io/GLIMPSE/) - [Read more](https://www.nature.com/articles/s41588-023-01438-3)
