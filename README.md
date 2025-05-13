@@ -1,6 +1,13 @@
 # BSF-Reference-Panel
-Establishing a Reference Genome Panel and Evaluating Imputation Strategies for Low-Coverage Sequencing in Black Soldier Fly (Hermetia illucens)
+Establishing a Reference Genome Panel and Evaluating Imputation Strategies for Low-Coverage Sequencing in Black Soldier Fly (Hermetia illucens).
 
+## 📁 Repository Structure
+
+```
+├── 01_Variant calling - FastQC, Mapping, Variant calling, VCF filtering, and Phasing
+├── 02_Imputation scripts - GLIMPSE2, QUILT, and STITCH (Building a reference panel and imputation)
+└── 03_Imputation accuracy - R2, NRC, IQS calculation and plotting
+```
 
 ## Low-coverage WGS (lcWGS) imputation pipeline
 <img src="Images/genomic_imputation_workflow.png" alt="Graph" width="400"/>
@@ -15,3 +22,6 @@ Establishing a Reference Genome Panel and Evaluating Imputation Strategies for L
 
 ## Imputation Accuracy
 1. [VcfPPR](https://github.com/Zilong-Li/vcfppR) - [Read more](https://academic.oup.com/bioinformatics/article/40/2/btae049/7589925)
+
+## 📬 Contact
+For questions or collaborations, please reach out to **[Peter Muchina]** at [kimanimuchina@gmail.com](mailto:your.email@domain.com)
