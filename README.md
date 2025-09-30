@@ -1,5 +1,5 @@
 # BSF-Reference-Panel
-Establishing a Reference Genome Panel and Evaluating Imputation Strategies for Low-Coverage Sequencing in Black Soldier Fly (Hermetia illucens).
+ A Haplotype Reference Panel and Genotype Imputation Framework for the Black Soldier Fly (Hermetia illucens)
 
 ## 📁 Repository Structure
 
@@ -8,12 +8,6 @@ Establishing a Reference Genome Panel and Evaluating Imputation Strategies for L
 ├── 02_Imputation scripts - GLIMPSE2, QUILT, and STITCH (Building a reference panel and imputation)
 └── 03_Imputation accuracy - R2, NRC, IQS calculation and plotting
 ```
-
-## Low-coverage WGS (lcWGS) imputation pipeline
-<img src="Images/genomic_imputation_workflow.png" alt="Graph" width="400"/>
-
-## Study design
-<img src="Images/Study_design.png" alt="Graph"/>
 
 ## Imputation tools
 1. [GLIMPSE2](https://odelaneau.github.io/GLIMPSE/) - [Read more](https://www.nature.com/articles/s41588-023-01438-3)
